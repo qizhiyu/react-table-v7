@@ -13,3 +13,5 @@ react-table.css
 package-lock.json
 coverage
 .docz
+.vercel
+.env*.local

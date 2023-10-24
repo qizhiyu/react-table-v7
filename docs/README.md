@@ -7,6 +7,7 @@ This is source code to react-table.tanstack.com. It is forked from the [Formik](
 - Tailwind
 - Algolia
 - Notion
+- Node.JS 16 or lower
 
 ## Running locally
 
